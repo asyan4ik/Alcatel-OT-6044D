@@ -1,5 +1,5 @@
 # Alcatel-OT-6044D
-Test tree for 6044D
+# Test tree for 6044D
 
 
 #Specs
@@ -28,3 +28,6 @@ Radio         :	FM radio
 FEATURES      :	Sensors	Accelerometer, proximity, compass
 
 BATTERY	      : Removable Li-Ion 2000 mAh battery
+
+
+
