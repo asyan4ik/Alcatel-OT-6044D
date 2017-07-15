@@ -5,7 +5,7 @@
 #Specs
 
 
-Chipset       : Qualcomm MSM8929 Snapdragon 615
+Chipset       : Qualcomm MSM8929 Snapdragon 415
 
 GPU	          : Adreno 405
 
